@@ -1,0 +1,28 @@
+<resources>
+    
+    <string-array name="English">
+    	<item name="Title"></item>
+    	<item name="Purchases"></item>
+    	<item name="Add Purchases"></item>
+    	<item name="Maximum Spent"></item>
+    	<item name="Statistics"></item>
+    	<item name="Settings"></item>
+    </string-array>
+    <string-array name="Francais">
+    	<item name="Titre"></item>
+    	<item name="Achetes"></item>
+    	<item name="Ajouter des achetes"></item>
+    	<item name="Consommation totale"></item>
+    	<item name="Statistiques"></item>
+    	<item name="Parametres"></item>
+    </string-array>
+    <string-array name="Arabic">
+    	<item name="العنوان"></item>
+    	<item name="المشتريات"></item>
+    	<item name="إضافة المشتريات"></item>
+    	<item name="الإستهلاك الإجمالي"></item>
+    	<item name="الإحصاء"></item>
+    	<item name="الإعدادات"></item>
+    </string-array>
+    
+</resources>

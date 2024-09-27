@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- TextView at the top -->
+    <TextView
+        android:id="@+id/myTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Provide info"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"/>
+
+    <!-- EditText 1 -->
+    <EditText
+        android:id="@+id/textEdit1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/myTextView"
+        android:layout_marginTop="16dp"
+        android:hint="Title"/>
+
+    <!-- EditText 2 -->
+    <EditText
+        android:id="@+id/textEdit2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textEdit1"
+        android:layout_marginTop="8dp"
+        android:hint="Description"/>
+
+    <!-- EditText 3 -->
+    <EditText
+        android:id="@+id/textEdit3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textEdit2"
+        android:layout_marginTop="8dp"
+        android:hint="File location"/>
+
+    <!-- Full-width Button -->
+    <Button
+        android:id="@+id/insert"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/editText3"
+        android:layout_marginTop="16dp"
+        android:text="Submit"/>
+</RelativeLayout>

@@ -1,0 +1,24 @@
+<resources>
+    
+    <string-array name="Purchasable">
+    	<item name="eggs">eggs</item>
+    	<item name="milk">milk</item>
+		<item name="bread">bread</item>
+		<item name="bigMilk">milk-1L</item>
+		<item name="potatoes">potatoes</item>
+		<item name="sugar">sugar</item>
+		<item name="tea">tea</item>
+    </string-array>
+    
+    <string-array name="Prices">
+    	<item name="eggs">1.5</item>
+    	<item name="milk">3.5</item>
+		<item name="bread">1.5</item>
+		<item name="bigMilk">11</item>
+		<item name="potatoes">potatoes</item>
+		<item name="sugar">sugar</item>
+		<item name="tea">tea</item>
+    </string-array>
+
+    
+</resources>

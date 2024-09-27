@@ -1,0 +1,22 @@
+//Instead of trying to use the advanced APIs for retrieving content, let's simply open a fileDir and transfer the images from drawable to the directory.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//In the Add Entry activity, we should take the code and put it into another CustomEntry.kt activity(or keep the code for a popup window)
+
+//...then we add a different code which shows standard pre-defined choices for the purchases (Images for different products/services), and after selecting an image, the price and productName of said image will automatically fill their proper fields.
+
+//Clicking add entry will save the entry along with the photo name in column 6.
+
+//Of course the CustomEntry UI will ask for an image from the phone storage; and that too will be saved to the app storage and added to column 6.

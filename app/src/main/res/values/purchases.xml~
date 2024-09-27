@@ -1,0 +1,14 @@
+<resources>
+    
+    <string-array name="Purchasable">
+    	<item name="eggs">eggs</item>
+    	<item name="milk">milk</item>
+		<item name="bread">bread</item>
+		<item name="bigMilk">milk-1L</item>
+		<item name="potatoes">potatoes</item>
+		<item name="sugar">sugar</item>
+		<item name="tea">tea</item>
+    </string-array>
+
+    
+</resources>

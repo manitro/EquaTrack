@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- ListView occupying the rest of the space -->
+    <androix.viewpager.widget.ViewPager
+        android:id="@+id/viewS"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/textV">
+        
+    </androix.viewpager.widget.ViewPager>
+        
+</RelativeLayout>

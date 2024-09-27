@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- Top Header -->
+    <TextView
+        android:id="@+id/textV"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="My App Header"
+        android:background="#2196F3"
+        android:textColor="#ffffff"
+        android:padding="16dp"
+        android:gravity="center"/>
+
+    <!-- ListView occupying the rest of the space -->
+    <ImageView
+        android:id="@+id/imgV"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/textV" />
+</RelativeLayout>
+
