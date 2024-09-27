@@ -16,3 +16,5 @@ And with that we have added a purchase to the database.
 3) select the month you wish to check for things bought in that month.
 4) then press "Open Purchases".
 5) you will be given a list of items bought throughout the month.
+
+Note: the 2 last buttons do nothing yet, they are meant to show the maximum spent and various other statistics... they will available as soon as possible.
