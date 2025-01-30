@@ -1,5 +1,13 @@
-A simple expense/purchases tracking app with a basic input system...
+A simple app for tracking your everyday shopping, with a basic input system...
 as well as a check purchases in a certain month.
+
+Simply clone this repository: 
+  1. Navigate to your AndroidStudio's Projects folder (litteraly called AndroidStudioProjects).
+  2. then you clone it using git "$ git clone 'https://github.com/manitro/EquaTrack' "
+
+*Note: If you don't have AndroidStudio, you can install gradle on your system and build app manually.
+  1. Navigate to the repository folder.
+  2. Then simply run the command '$ ./gradlew run'. 
 
 Straightforward use:
 On startup, you will see 4 buttons
@@ -17,4 +25,9 @@ And with that we have added a purchase to the database.
 4) then press "Open Purchases".
 5) you will be given a list of items bought throughout the month.
 
-Note: the 2 last buttons do nothing yet, they are meant to show the maximum spent and various other statistics... they will available as soon as possible.
+Note: the 2 last buttons do nothing yet, they are meant to show the maximum spent and various other statistics... they will be available as soon as possible.
+
+Features to be added/fixed:
+1. Deleting/Modifying entries.
+2. Importing/Exporting entries from a database file.
+3. Expanding The GUI.
